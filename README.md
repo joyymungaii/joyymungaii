@@ -22,5 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyymungaii&" alt="joyymungaii" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=joyymungaii&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyymungaii&label=Profile%20views&color=0e75b6&style=flat" alt="joyymungaii" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyymungaii" alt="joyymungaii" /></a> </p>
