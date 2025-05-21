@@ -15,11 +15,23 @@
 # 💻 Tech Stack:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyymungaii&show_icons=true&locale=en&layout=compact" alt="joyymungaii" /></p>
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=joyymungaii&label=Profile%20views&color=0e75b6&style=flat" alt="joyymungaii" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyymungaii&show_icons=true&locale=en" alt="joyymungaii" /></p>
+<!-- Most Used Languages -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joyymungaii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyymungaii&" alt="joyymungaii" /></p>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joyymungaii&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyymungaii" alt="GitHub Streak" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyymungaii&label=Profile%20views&color=0e75b6&style=flat" alt="joyymungaii" /> </p>
