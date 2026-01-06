@@ -27,9 +27,9 @@
 
 <!-- GitHub Stats -->
 <!-- GitHub Streak -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joyymungaii&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joyymungaii&theme=dark" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyymungaii&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joyymungaii)
+
 
 
