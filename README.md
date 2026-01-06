@@ -27,13 +27,10 @@
 
 <!-- GitHub Stats -->
 <!-- GitHub Streak -->
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyymungaii&show_icons=true&hide_border=true&v=1)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyymungaii&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joyymungaii&hide_border=true&v=1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joyymungaii&theme=dark)
-
-</p>
 
 
 
