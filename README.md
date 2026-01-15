@@ -21,20 +21,10 @@
 </p>
 
 <!-- Most Used Languages -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joyymungaii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 <!-- GitHub Stats -->
 <!-- GitHub Streak -->
-[![GitHub Streak](streak-stats.demolab.com)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joyymungaii)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/joyymungaii)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyymungaii&show_icons=true&hide_border=true&v=1)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joyymungaii&hide_border=true&v=1)
 
 
 
