@@ -15,17 +15,8 @@
 # 💻 Tech Stack:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=joyymungaii&label=Profile%20views&color=0e75b6&style=flat" alt="joyymungaii" />
-</p>
-
-<!-- Most Used Languages -->
-
-<!-- GitHub Stats -->
 <!-- GitHub Streak -->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joyymungaii" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=joyymungaii)](https://git.io/streak-stats)
 
 
 
